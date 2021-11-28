@@ -5,6 +5,8 @@ Machine Learning Seminars
 Объявление
 ==========
 
+- Таблица с результатами в `google spreadsheets <https://docs.google.com/spreadsheets/d/1taAZjB2MOO30r9ceQJJO4f8UqL4u4CKOloVuDKZP994/edit?usp=sharing>`_.
+
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
@@ -55,13 +57,13 @@ Machine Learning Seminars
 
 Второе задание:
 ************************************************
-- Начало: 15:30 25.11.2021.
+- Начало: 15:30 20.11.2021.
 - Дедлайн: 23:59 12.12.2021.
-- `Ссылка на задание <https://www.kaggle.com/c/fall-ml2-mipt-2020/overview>`_.
-- `Ссылка для сдачи оформленного решения <None>`_.
+- `Ссылка на задание <https://www.kaggle.com/c/fall-ml2-mipt-2021/overview>`_.
+- `Ссылка для сдачи оформленного решения <https://forms.gle/KBR2npxT17gnnspd8>`_.
 - Требуется:
     - Отправить свое решение в csv формате на kaggle.com.
-    - Отправить ноутбук с решением на гугл форму.
+    - Отправить ноутбук с решением через гугл форму.
 
 План занятий
 ------------
