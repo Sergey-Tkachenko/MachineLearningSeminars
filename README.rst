@@ -5,15 +5,15 @@ Machine Learning Seminars
 Объявление
 ==========
 
-- Таблица с результатами в `google spreadsheets <https://docs.google.com/spreadsheets/d/1taAZjB2MOO30r9ceQJJO4f8UqL4u4CKOloVuDKZP994/edit?usp=sharing>`_.
-- Лекции и семинары в осенем семемтре закончились. Выполняйте домашнее задание. В понедельник (13.12.2021) будут оценки за семестр.
+- Семинары в весеннем семестре пока будут в дистанционном режиме по ссылке, которая указана ниже.
+- Появились дедлайны по дз. `Ссылка <https://github.com/andriygav/MachineLearningSeminars#курсовое-домашнее-задание-1>`_
 
 Полезные ссылки
 ===============
 - Плейлист лекций и семинаров: `2020-2021 <https://www.youtube.com/playlist?list=PLk4h7dmY2eYHHTyfLyrl7HmP-H3mMAW08>`_; `2021-2022 <https://youtube.com/playlist?list=PLk4h7dmY2eYFmowaPqjFDzSokiiLq5TkT>`_
 - `Курс лекций К.В. Воронцова. <http://www.machinelearning.ru/wiki/index.php?title=Машинное_обучение_%28курс_лекций%2C_К.В.Воронцов%29>`_
 - `Курс Мурата Апишева по python. <https://github.com/MelLain/mipt-python>`_
-- `Ссылка в zoom для лекции и семинара. <https://us06web.zoom.us/j/82309900360?pwd=blJDaGU5OERJMkVHSzQyT2RxUEYvUT09>`_
+- `Ссылка в zoom для лекции и семинара. <https://us06web.zoom.us/j/81766985440?pwd=UWdrbk5OYVhFdm1Jczlsc0lpZTBkQT09>`_
 - `Почта для связи. <grabovoy.av@phystech.edu>`_
 
 Осений семестр
@@ -268,15 +268,15 @@ Machine Learning Seminars
 
 Первое задание:
 ************************************************
-- Дедлайн: 23:59 14.03.2021. Жесткий дедлайн 21.03.2021, каждый день оценка по каждой задаче уменьшается на 0.05. Суммарное количество баллов за каждую задачу 1.
+- Дедлайн: 23:59 20.03.2022. Жесткий дедлайн 27.03.2022, каждый день оценка по каждой задаче уменьшается на 0.05. Суммарное количество баллов за каждую задачу 1.
 - Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-1/>`_.
-- Ссылка для сдачи задания `тут <None>`_.
+- Ссылка для сдачи задания `тут <https://forms.gle/1WdvQvbLpu4Bsef16>`_.
 
 Второе задание:
 ************************************************
-- Дедлайн: Дедлайн 23:59 01.04.2021(task 2-2.1); 11.04.2021(task 2-2.2) 23:59 02.05.2021 (task 2-2.3)
+- Дедлайн: 23:59 10.04.2022(task 2-2.1); 24.04.2022(task 2-2.2) 23:59 08.05.2022 (task 2-2.3). Жесткий дедлайн 15.05.2022, каждый день оценка по каждой задаче уменьшается на 0.05.
 - Задание доступно по `ссылке <https://github.com/andriygav/MachineLearningSeminars/blob/master/hometask/task2-2/>`_.
-- Ссылка для сдачи задания `тут <None>`_.
+- Ссылка для сдачи задания `тут <https://forms.gle/PcLJTSYanEBe5nB69>`_.
 
 
 План занятий
